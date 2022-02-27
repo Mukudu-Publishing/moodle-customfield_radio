@@ -1,5 +1,16 @@
-__Mukudu Publishing Code Repository__
+__Moodle Plugin Development By Example Course__
 
-Please select the relevant product branch for the code respository.
+customfield\radio
 
-#### NOT SUITABLE FOR PRODUCTION ENVIROMENTS ####
+# Course Custom Field Plugin: Radio Button #
+
+__About__
+
+An example of a customfield plugin developed for the course.
+
+__Description__
+
+The plugin creates a radio button course custom field.
+
+#### SUITABLE FOR A PRODUCTION SYSTEM ####
+
